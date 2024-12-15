@@ -19,6 +19,12 @@
 **tkinter**：Python 的标准 GUI 库，用于创建程序的图形用户界面，包括各种按钮、文本框、窗口等组件，实现用户与程序的交互。
      
 **pyautogui**：用于获取鼠标位置，以便在录制屏幕时能够准确地在图像上绘制光标位置。
+
+#### pip安装：
+
+	```base
+ 	python -m pip install mss opencv-python numpy pyautogui
+  	```
      
      
      
@@ -69,6 +75,8 @@
      
 截图成功后，会在控制台输出截图保存信息，并恢复主窗口显示（若之前最小化）。
 
+
+## 加入这个项目该项目是开源的。随意贡献。请帮我更新这个项目! 非常感谢 :)
 
 ## 对了，不想打包的也没关系，这里有我使用pyinstaller打包好的：[蓝奏云](https://www.ilanzou.com/s/W2byojQ1)
 	
