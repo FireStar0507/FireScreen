@@ -22,10 +22,7 @@
 
 #### pip安装：
 
-	```base
- 	python -m pip install mss opencv-python numpy pyautogui
-  	```
-     
+	python -m pip install mss opencv-python numpy pyautogui
      
      
 ## 二、详细用法
