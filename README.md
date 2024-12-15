@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Python-All-blue)
+
+
 # FireScreen 火屏 v.2.10
 
 ##### 由 @FireStar0507 原创
